@@ -1,7 +1,3 @@
-Here's a README file for **CryptoDrive** with proper Markdown formatting for GitHub:
-
----
-
 # CryptoDrive
 A Decentralized Image Upload and Sharing Platform
 
